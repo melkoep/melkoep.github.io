@@ -1,8 +1,10 @@
 # Melanie Koeppen - Product Person
 
-I am a freelance Product Person - I am available for short-term or long-term product projects, or as an interim or fractional product leader. 
+I am a freelance Product Person - I am available for short-term or long-term product projects or as an interim or fractional product manager or product leader. 
 
-I can bridge your needs until you can hire someone full-time, I can help you scale up quickly, or cover long-term absence. I can help you level-up your product team to turn your product managers into product leaders, or can cover product leadership needs if you don’t want to hire full-time just yet.
+- I can bridge your Product Management or Product Leadership needs until you can hire someone full-time, or if you don’t want to hire full-time just yet.
+- I can help you scale up quickly, or cover long-term absence. 
+- I can help you level-up your product team.
 
 ---
 
@@ -20,7 +22,7 @@ I can bridge your needs until you can hire someone full-time, I can help you sca
 
 ## 🧩 Product Management
 
-I build products along the entire product life cycle.
+**I build products along the entire product life cycle.**
 
 Having worked in Product for over 14 years, I have experience in shipping products from the ground up, experimenting early and often, scaling, finding the right product/market fit, as well as sunsetting products. My portfolio includes working on
 
@@ -36,15 +38,14 @@ I have a knack for lean product development methodologies, and can easily do Scr
 
 ## 🚀 Product Leadership
 
-I set up product processes and best practices, and I coach and mentor Product Managers on their journey.
+**I set up product processes and best practices, and I coach and mentor Product Managers on their journey.**
 
 I approach product leadership with a people-first mentality. The job of a product leader is to enable product managers, product designers and everyone else to be successful at what they do best. I find it important to nurture autonomy, agency and a clear understanding of expectations. I am trying to be a role model in transparent communication, and clear vision- and goal-setting.
 
-## 💎 Product Strategy & Business Alignment
+I have established product processes before, getting product, engineering and design teams onto a successful path of continuous product shipping with room for exploration, discovery and delivery while being able to manage business expectations and creating some predictability.
 
-I help create the product strategy that aligns with your business goals and connects product to the overall success of the business.
+I have set product vision and product goals to set the frame for team-specific product strategies and roadmaps that align with the overall company direction. I help create the product strategy that aligns with your business goals and connects product to the overall success of the business. My passion is to ensure that product strategy is well connected in the overall business goals, and product success can be measured by the impact on business. I help digging out assumptions that need to be made explicit as well as help setting up product measurements, processes etc to connect product strategy to company planning and goal setting.
 
-My passion is to ensure that product strategy is well connected in the overall business goals, and product success can be measured by the impact on business. I help digging out assumptions that need to be made explicit as well as help setting up product measurements, processes etc to connect product strategy to company planning and goal setting.
 
 # My Experience
 
