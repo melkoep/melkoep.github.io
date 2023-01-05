@@ -8,15 +8,11 @@ I can bridge your needs until you can hire someone full-time, I can help you sca
 
 # ✉️ Get in touch
 
-<aside>
+
 📧 Email - melaniekoeppen@me.com
 
-</aside>
-
-<aside>
 🖇️ LinkedIn - [https://www.linkedin.com/in/melaniek-/](https://www.linkedin.com/in/melaniek-/)
 
-</aside>
 
 ---
 
@@ -73,12 +69,7 @@ My passion is to ensure that product strategy is well connected in the overall b
 
 # ✉️ Get in touch
 
-<aside>
+
 📧 Email - melaniekoeppen@me.com
 
-</aside>
-
-<aside>
 🖇️ LinkedIn - [https://www.linkedin.com/in/melaniek-/](https://www.linkedin.com/in/melaniek-/)
-
-</aside>
