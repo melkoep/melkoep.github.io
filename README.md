@@ -2,9 +2,9 @@
 
 I am a freelance Product Person - I am available for short-term or long-term product projects or as an interim or fractional product manager or product leader. 
 
-- I can bridge your Product Management or Product Leadership needs until you can hire someone full-time, or if you don’t want to hire full-time just yet.
-- I can help you scale up quickly, or cover long-term absence. 
-- I can help you level-up your product team.
+- I bridge your Product Management or Product Leadership needs until you can hire someone full-time, or if you don’t want to hire full-time just yet.
+- I help you scale up quickly, or cover long-term absence. 
+- I help you level-up your product team.
 
 ---
 
