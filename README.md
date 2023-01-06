@@ -24,7 +24,7 @@ I am a freelance Product Person - I am available for short-term or long-term pro
 
 ## 🧩 Product Management
 
-**I build products along the entire product life cycle.**
+> **I build products along the entire product life cycle.**
 
 Having worked in Product for over 14 years, I have experience in shipping products from the ground up, experimenting early and often, scaling, finding the right product/market fit, as well as sunsetting products. My portfolio includes working on
 
@@ -40,7 +40,7 @@ I have a knack for lean product development methodologies, and can easily do Scr
 
 ## 🚀 Product Leadership
 
-**I set up product processes and best practices, and I coach and mentor Product Managers on their journey.**
+> **I set up product processes and best practices, and I coach and mentor Product Managers on their journey.**
 
 I approach product leadership with a people-first mentality. The job of a product leader is to enable product managers, product designers and everyone else to be successful at what they do best. I find it important to nurture autonomy, agency and a clear understanding of expectations. I am trying to be a role model in transparent communication, and clear vision- and goal-setting.
 
