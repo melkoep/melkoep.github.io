@@ -2,8 +2,17 @@
 
 # Melanie Koeppen - Product Person
 
-I am a freelance Product Person - I am available for short-term or long-term product projects or as an interim or fractional product manager or product leader. 
+I am a freelance Product Person - I am available for short-term or long-term product projects or as an interim or fractional product manager or product leader: 
 
+> 💡 **I build products along the entire product life cycle.**
+> 
+> 💡 **I set up product processes and best practices, and I coach and mentor Product Managers on their journey.**
+> 
+> 💡 **I set up and execute product strategy in line with business goals.** 
+
+
+
+Why a Product Freelancer?
 - I bridge your Product Management or Product Leadership needs until you can hire someone full-time, or if you don’t want to hire full-time just yet.
 - I help you scale up quickly, or cover long-term absence. 
 - I help you level-up your product team.
@@ -38,7 +47,7 @@ My expertise lies in setting up products from 0 --> 1, meaning finding the first
 
 I have a knack for lean product development methodologies, and can easily do Scrum, Kanban, or your own ways of working.
 
-## 🚀 Product Leadership
+## 🚀 Product Leadership - People, Process & Product Strategy
 
 > 💡 **I set up product processes and best practices, and I coach and mentor Product Managers on their journey.**
 
