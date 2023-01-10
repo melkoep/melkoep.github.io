@@ -16,7 +16,7 @@ Why a Product Freelancer?
 - I help you level-up your product team.
 
 
-> 📧 **Email - melaniekoeppen [at] me.com**
+> 📧 **Email - melaniekoeppen [at] proton.me**
 
 
 # The services I offer
@@ -75,7 +75,7 @@ I have set product vision and product goals to set the frame for team-specific p
 # ✉️ Get in touch
 
 
-📧 Email - melaniekoeppen [at] me.com
+📧 Email - melaniekoeppen [at] proton.me
 
 🖇️ LinkedIn - [https://www.linkedin.com/in/melaniek-/](https://www.linkedin.com/in/melaniek-/)
 
