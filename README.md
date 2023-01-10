@@ -1,4 +1,4 @@
-# Melanie Koeppen - Product Person
+# Melanie Koeppen - Product Manager/ Product Leader
 
 I am a freelance Product Person - I am available for short-term or long-term product projects or as an interim or fractional product manager or product leader: 
 
