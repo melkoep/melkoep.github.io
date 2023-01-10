@@ -1,5 +1,3 @@
-![header](./1602164824353.jpg)
-
 # Melanie Koeppen - Product Person
 
 I am a freelance Product Person - I am available for short-term or long-term product projects or as an interim or fractional product manager or product leader: 
@@ -17,7 +15,6 @@ Why a Product Freelancer?
 - I help you scale up quickly, or cover long-term absence. 
 - I help you level-up your product team.
 
----
 
 # ✉️ Get in touch
 
@@ -27,7 +24,8 @@ Why a Product Freelancer?
 🖇️ LinkedIn - [https://www.linkedin.com/in/melaniek-/](https://www.linkedin.com/in/melaniek-/)
 
 
----
+![header](./1602164824353.jpg)
+
 
 # The services I offer
 
@@ -38,6 +36,7 @@ Why a Product Freelancer?
 Having worked in Product for over 14 years, I have experience in shipping products from the ground up, experimenting early and often, scaling, finding the right product/market fit, as well as sunsetting products. My portfolio includes working on
 
 - social platforms
+- music streaming & music recommendations
 - e-commerce and marketplaces
 - insurtech
 - B2B platforms
@@ -87,3 +86,5 @@ I have set product vision and product goals to set the frame for team-specific p
 📧 Email - melaniekoeppen@me.com
 
 🖇️ LinkedIn - [https://www.linkedin.com/in/melaniek-/](https://www.linkedin.com/in/melaniek-/)
+
+![mw](./EIrfXhpXUAEiSb_.jpg)
