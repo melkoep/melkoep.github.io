@@ -24,9 +24,6 @@ Why a Product Freelancer?
 🖇️ LinkedIn - [https://www.linkedin.com/in/melaniek-/](https://www.linkedin.com/in/melaniek-/)
 
 
-![header](./1602164824353.jpg)
-
-
 # The services I offer
 
 ## 🧩 Product Management
@@ -87,4 +84,4 @@ I have set product vision and product goals to set the frame for team-specific p
 
 🖇️ LinkedIn - [https://www.linkedin.com/in/melaniek-/](https://www.linkedin.com/in/melaniek-/)
 
-![mw](./EIrfXhpXUAEiSb_.jpg)
+![header](./1602164824353.jpg)
