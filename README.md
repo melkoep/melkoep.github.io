@@ -16,12 +16,7 @@ Why a Product Freelancer?
 - I help you level-up your product team.
 
 
-# ✉️ Get in touch
-
-
-📧 Email - melaniekoeppen@me.com
-
-🖇️ LinkedIn - [https://www.linkedin.com/in/melaniek-/](https://www.linkedin.com/in/melaniek-/)
+> 📧 **Email - melaniekoeppen@me.com**
 
 
 # The services I offer
